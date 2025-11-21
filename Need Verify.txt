@@ -1,0 +1,24 @@
+carisma
+william permana
+saefulloh
+ade kosasih
+
+   autos
+endar supriadi
+latif saifudin
+agung priatama
+
+
+Tanggal (View) semua minta ditampilkan dalam format dd/mm/yyyy
+
+
+Buat Combo searching
+	- TRANSAKSI BIAYA UNIT
+	- MASTER LIST ALLOW COA - MODULE
+
+TRANSAKSI POSTING (SALES ORDER)
+	- Nilai Discount tidak masuk kedalam table : nxt_t_vhc_so_pst_tmp
+
+TRANSAKSI BIAYA UNIT
+	- Ganti Nama Account Bank menjadi Account
+
